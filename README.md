@@ -70,7 +70,7 @@ status:
 
 <img src="./assets/title-experience.svg" height="54" alt="Featured experience"/>
 
-> **🔬 AI & NLP Research · CVE Event Extraction** · *2026 - present*  
+> **🔬 AI & NLP Research · CVE Event Extraction** · *2026*  
 > Research on extracting structured events and relations from vulnerability descriptions, using cybersecurity NLP, Transformers and graph learning.
 > `Python` `NLP` `Transformers` `CVE` `Graph Learning`
 
@@ -78,13 +78,13 @@ status:
 > Worked on data and AI experimentation around reinforcement-learning personalization and analytics workflows, without exposing private datasets or internal architecture.
 > `Python` `RL` `Data Engineering` `Analytics` `MLOps`
 
-> **🤖 AI/ML Internship · VERMEG** · *2026*  
-> Applied machine learning and AI engineering practices in a professional software environment.
-> `Python` `Machine Learning` `AI Engineering`
+> **🤖 AI/ML Internship · VERMEG** · *2025*  
+> Worked on insurance recommendation, RAG-assisted knowledge retrieval, NLP processing and classification workflows.
+> `Python` `Machine Learning` `NLP` `RAG` `Classification`
 
-> **⚙️ AI Automation & DevOps · Finlogik** · *2026*  
-> Worked on automation and DevOps-oriented workflows with an AI engineering mindset.
-> `Automation` `DevOps` `AI` `Engineering`
+> **⚙️ AI Automation & DevOps · Finlogik** · *2024 - 2025*  
+> Relevant internships covering AI-powered automation, Gmail/Gemini integration and DevOps workflows with Jenkins, Docker and CI/CD.
+> `AI Automation` `Gmail` `Gemini` `Jenkins` `Docker` `CI/CD`
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
